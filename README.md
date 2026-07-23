@@ -16,7 +16,7 @@ mv terminal-greeter ~/.cargo/bin/
 ```fish
 echo $PATH
 ```
-If not, add it
+If not, add it  
 For the fish shell:
 ```fish
 fish_add_path ~/.cargo/bin
